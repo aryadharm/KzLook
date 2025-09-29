@@ -5,8 +5,7 @@ import MainLayout from "./Layouts/MainLayout";
 import Dashboard from "./pages/frontpages/Dashboard";
 import ProductDetail from "./pages/frontpages/ProductDetail";
 
-// NEW:
-import Catalog from "./pages/frontpages/Catalog";
+import Catalog from "./pages/frontpages/catalog";
 import DashboardAdmin from "./pages/admin/DashboardAdmin";
 
 export default function App() {
